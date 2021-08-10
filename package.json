@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Abril Isabel <abrilgutierrez66658@gmail.com> (https://github.com/Kitty-js/)",
-  "homepage": "https://github.com/Kitty-js/api-typescript-mongodb",
+  "homepage": "https://github.com/Kitty-js/typescript-mongodb-crud",
   "license": "MIT",
   "dependencies": {
     "compression": "^1.7.4",
